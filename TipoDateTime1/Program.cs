@@ -27,4 +27,15 @@ Console.WriteLine(hoje.AddMonths(1));
 Console.WriteLine(hoje.AddHours(1));
 Console.WriteLine(hoje.AddYears(5));
 
+// Obter os dias da semana
+Console.WriteLine(hoje.DayOfWeek);
+Console.WriteLine(hoje.DayOfYear);
+
+// Data no formato longo e curto 
+Console.WriteLine(hoje.ToLongDateString());
+Console.WriteLine(hoje.ToShortDateString());
+
+Console.WriteLine(hoje.ToLongTimeString());
+Console.WriteLine(hoje.ToShortTimeString());
+
 Console.ReadKey();
