@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableTypes1", "NullableT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identificadores", "Identificadores\Identificadores.csproj", "{245A9E56-04CC-44BB-A4D6-2B297E5FEED4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDados", "SaidaDados\SaidaDados.csproj", "{18CE47C4-43FF-4E7F-B146-DEFA10C65699}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{245A9E56-04CC-44BB-A4D6-2B297E5FEED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{245A9E56-04CC-44BB-A4D6-2B297E5FEED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{245A9E56-04CC-44BB-A4D6-2B297E5FEED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18CE47C4-43FF-4E7F-B146-DEFA10C65699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18CE47C4-43FF-4E7F-B146-DEFA10C65699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18CE47C4-43FF-4E7F-B146-DEFA10C65699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18CE47C4-43FF-4E7F-B146-DEFA10C65699}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
