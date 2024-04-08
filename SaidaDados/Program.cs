@@ -26,4 +26,6 @@ Console.WriteLine($"{nome} tem {idade} anos");
 Console.WriteLine("----------Place holders-----------");
 // Usar place holders : usa {} com numeração com inicio em zero
 Console.WriteLine("{0} tem {1} anos", nome, idade);
+
+
 Console.ReadLine();
